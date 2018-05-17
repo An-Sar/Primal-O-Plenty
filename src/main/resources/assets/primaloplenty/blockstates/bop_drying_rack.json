@@ -1,0 +1,130 @@
+{
+  "forge_marker":1,
+  "variants": {
+    "normal": { "model": "primal:drying_rack" },
+    "type": {
+      "oak": {},
+      "spruce": {},
+      "birch": {},
+      "jungle": {},
+      "acacia": {},
+      "dark_oak": {},
+      "ironwood": {},
+      "yew": {},
+      "lacquer": {},
+      "corypha": {}
+    },
+    "bopvar": {
+      "sacred_oak": {
+        "textures": {
+          "particle": "primal:blocks/lacquer/planks_lacquer_normal",
+          "texture": "primal:blocks/lacquer/planks_lacquer_normal"
+        }
+      },
+      "cherry": {
+        "textures": {
+          "particle": "primal:blocks/lacquer/planks_lacquer_normal",
+          "texture": "primal:blocks/lacquer/planks_lacquer_normal"
+        }
+      },
+      "umbran": {
+        "textures": {
+          "particle": "primal:blocks/lacquer/planks_lacquer_normal",
+          "texture": "primal:blocks/lacquer/planks_lacquer_normal"
+        }
+      },
+      "fir": {
+        "textures": {
+          "particle": "primal:blocks/lacquer/planks_lacquer_normal",
+          "texture": "primal:blocks/lacquer/planks_lacquer_normal"
+        }
+      },
+      "ethereal": {
+        "textures": {
+          "particle": "primal:blocks/lacquer/planks_lacquer_normal",
+          "texture": "primal:blocks/lacquer/planks_lacquer_normal"
+        }
+      },
+      "magic": {
+        "textures": {
+          "particle": "primal:blocks/lacquer/planks_lacquer_normal",
+          "texture": "primal:blocks/lacquer/planks_lacquer_normal"
+        }
+      },
+      "mangrove": {
+        "textures": {
+          "particle": "primal:blocks/lacquer/planks_lacquer_normal",
+          "texture": "primal:blocks/lacquer/planks_lacquer_normal"
+        }
+      },
+      "palm": {
+        "textures": {
+          "particle": "primal:blocks/lacquer/planks_lacquer_normal",
+          "texture": "primal:blocks/lacquer/planks_lacquer_normal"
+        }
+      },
+      "redwood": {
+        "textures": {
+          "particle": "primal:blocks/lacquer/planks_lacquer_normal",
+          "texture": "primal:blocks/lacquer/planks_lacquer_normal"
+        }
+      },
+      "willow": {
+        "textures": {
+          "particle": "primal:blocks/lacquer/planks_lacquer_normal",
+          "texture": "primal:blocks/lacquer/planks_lacquer_normal"
+        }
+      },
+      "pine": {
+        "textures": {
+          "particle": "primal:blocks/lacquer/planks_lacquer_normal",
+          "texture": "primal:blocks/lacquer/planks_lacquer_normal"
+        }
+      },
+      "hellbark": {
+        "textures": {
+          "particle": "primal:blocks/lacquer/planks_lacquer_normal",
+          "texture": "primal:blocks/lacquer/planks_lacquer_normal"
+        }
+      },
+      "jacaranda": {
+        "textures": {
+          "particle": "primal:blocks/lacquer/planks_lacquer_normal",
+          "texture": "primal:blocks/lacquer/planks_lacquer_normal"
+        }
+      },
+      "mahogany": {
+        "textures": {
+          "particle": "primal:blocks/lacquer/planks_lacquer_normal",
+          "texture": "primal:blocks/lacquer/planks_lacquer_normal"
+        }
+      },
+      "ebony": {
+        "textures": {
+          "particle": "primal:blocks/lacquer/planks_lacquer_normal",
+          "texture": "primal:blocks/lacquer/planks_lacquer_normal"
+        }
+      },
+      "eucalyptus": {
+        "textures": {
+          "particle": "primal:blocks/lacquer/planks_lacquer_normal",
+          "texture": "primal:blocks/lacquer/planks_lacquer_normal"
+        }
+      }
+    },
+    "facing": {
+      "north": {
+        "model": "primal:drying_rack"
+      },
+      "east": {
+        "model": "primal:drying_rack", "y": 90
+      },
+      "south": {
+        "model": "primal:drying_rack", "y": 180
+      },
+      "west": {
+        "model": "primal:drying_rack", "y": 270
+      }
+    }
+  }
+}

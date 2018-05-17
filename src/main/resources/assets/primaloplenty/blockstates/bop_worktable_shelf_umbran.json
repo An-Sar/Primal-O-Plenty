@@ -1,0 +1,32 @@
+{
+  "forge_marker":1,
+  "defaults": {
+      "model": "primal:worktable_shelf",
+      "transform": "forge:default-block",
+      "textures": {
+        "particle": "#side",
+        "side": "biomesoplenty:blocks/umbran_log",
+        "top": "biomesoplenty:blocks/umbran_log_top",
+        "table": "primaloplenty:blocks/worktable_shelf_umbran_top"
+      }
+  },
+  "variants": {
+    "facing": {
+      "north": {
+        "model": "primal:worktable_shelf"
+      },
+      "east": {
+        "model": "primal:worktable_shelf", "y": 90
+      },
+      "south": {
+        "model": "primal:worktable_shelf", "y": 180
+      },
+      "west": {
+        "model": "primal:worktable_shelf", "y": 270
+      }
+    },
+    "inventory": [{
+      "y": 0
+    }]
+  }
+}
